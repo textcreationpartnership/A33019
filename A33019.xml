@@ -1,0 +1,947 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A form of prayer and thanksgiving to Almighty God, to be used throughout the cities of London and Westminster, and elsewhere within the weekly bills of mortality, on Sunday the eighth day of this instant September and in all other places throughout the kingdom of England, dominion of Wales, and town of Berwick upon Tweed, on Sunday the twenty second day of the same month: for granting to the forces of His Majesty, and his allies, so great success in taking the town and castle of Namur; and for protecting His Majesties sacred person from the many dangers to which he was so frequently exposed during that siege. By order of the Lords Justices.</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33019</idno>
+            <idno type="STC">Wing C4133</idno>
+            <idno type="STC">ESTC R214195</idno>
+            <idno type="EEBO-CITATION">99826402</idno>
+            <idno type="PROQUEST">99826402</idno>
+            <idno type="VID">30805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33019)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30805)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1827:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A form of prayer and thanksgiving to Almighty God, to be used throughout the cities of London and Westminster, and elsewhere within the weekly bills of mortality, on Sunday the eighth day of this instant September and in all other places throughout the kingdom of England, dominion of Wales, and town of Berwick upon Tweed, on Sunday the twenty second day of the same month: for granting to the forces of His Majesty, and his allies, so great success in taking the town and castle of Namur; and for protecting His Majesties sacred person from the many dangers to which he was so frequently exposed during that siege. By order of the Lords Justices.</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Charles Bill, and the executrix of Thomas Newcomb, deceas'd; printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCV. [1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴ C² .</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Prayer-books and devotions --  Early works to 1800.</term>
+               <term>Prayers --  Early works to 1800.</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30805:1"/>
+            <p>A FORM OF PRAYER AND Thankſgiving To Almighty GOD, To be Uſed throughout the Cities of <hi>London</hi> and <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> and elſewhere within the Weekly Bills of Mortali<g ref="char:EOLhyphen"/>ty, on <hi>Sunday</hi> the Eighth Day of this Inſtant <hi>September:</hi> And in all other Places throughout the Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> on <hi>Sunday</hi> the Twenty ſecond Day of the ſame Month: For Granting to the Forces of His Majeſty, and His Allies, ſo great Succeſs in taking the Town and Caſtle of <hi>NAM<g ref="char:V">Ʋ</g>R;</hi> And for Protecting His Maje<g ref="char:EOLhyphen"/>ſties Sacred Perſon from the many Dangers to which He was ſo frequently Expoſed during that Siege.</p>
+            <p>
+               <hi>By Order of the Lords Iuſtices.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb,</hi> deceas'd; Printers to the Kings moſt Excellent Majeſty. MDCXCV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prayer_service">
+            <pb facs="tcp:30805:2"/>
+            <pb facs="tcp:30805:2"/>
+            <head>A FORM of PRAYER and THANKSGIVING to Almighty God, to be Uſed throughout the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and elſewhere within the Weekly Bills of Mortality, on <hi>Sunday</hi> the Eighth day of this Inſtant <hi>Sep<g ref="char:EOLhyphen"/>tember:</hi> And in all other Places through<g ref="char:EOLhyphen"/>out this Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed</hi> on <hi>Sunday</hi> the Twenty Second Day of the ſame Month.</head>
+            <p>
+               <hi>The Service for that Day upon which the Thankſgiving ſhall be Obſerved, muſt be uſed, except where it is here otherwiſe ordered.</hi>
+            </p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>The Prayers ſhall begin with theſe Sentences.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">N</seg>Ot unto us<note place="margin">Pſal. 11.<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1.</note>, O Lord, not unto us, but unto thy Name give the praiſe, for thy loving mercy, and for thy truths ſake.</p>
+            <p>The Lord hath done great things for us; yea<note place="margin">Pſal. <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.4.</note>, the Lord hath done great things for us already, whereof we rejoyce.</p>
+            <pb facs="tcp:30805:3"/>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Inſtead of the <hi>Venite,</hi> this Hymn ſhall be uſed.</hi>
+            </p>
+            <p>SIng we merrily unto God our ſtrength: make cheerful noiſe unto the God of Iacob<note place="margin">Pſal. 81.1.</note>.</p>
+            <p>
+               <hi>We will rejoyce in thy ſalvation: and triumph in the name of the Lord our God</hi>
+               <note place="margin">20. 5.</note>.</p>
+            <p>Lord thou art become gracious unto thy land: th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haſt turned away the captivity of Iacob <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5. 1.</note>.</p>
+            <p>
+               <hi>Thou haſt forgiven the offence of thy people</hi> 
+               <note place="margin">ver. 2.</note>: <hi>and cove<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ed all their ſins.</hi>
+            </p>
+            <p>Thou haſt given victory unto Kings: and haſt d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>livered David thy ſervant from the peril of t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſword <note place="margin">144. 10.</note>.</p>
+            <p>
+               <hi>Thou haſt mightily delivered thy people: even the ſons Jacob and Joſeph</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 15.</note>.</p>
+            <p>The King ſhall rejoyce in thy ſtrength<note place="margin">21. 1.</note>, O Lor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> exceeding glad ſhall he be of thy ſalvation.</p>
+            <p>
+               <hi>The Lord will give ſtrength unto his people: the L<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> will bleſs his people with peace</hi> 
+               <note place="margin">29. 11.</note>.</p>
+            <p>Some put their truſt in chariots <note place="margin">20. 7.</note>, and ſome horſes: but we will remember the name of the L<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> our God.</p>
+            <p>
+               <hi>Be thou exalted</hi> 
+               <note place="margin">21. 13.</note>, <hi>Lord, in thine own ſtrength: ſo will ſing and praiſe thy power.</hi>
+            </p>
+            <p>Glory be to the Father, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>As it was in the beginning, &amp;c.</hi>
+            </p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Proper Pſalms. XXXIII. XLVII. LXII.</hi>
+            </p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Proper Leſſons. The firſt, Iſai. 26. to ver. 13. <hi>Te Deum.</hi>
+               </hi>
+            </p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Proper Leſſons. The ſecond, Heb. 11. ver 24. to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Jubilate Deo.</hi>
+               </hi>
+            </p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>After the Apoſtles Creed, and the Lords Prayer. the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall be as followeth.</hi>
+            </p>
+            <p>
+               <hi>Prieſt.</hi> O Lord, ſhew thy mercy upon us.</p>
+            <p>
+               <hi>Anſw.</hi> And grant us thy ſalvation.</p>
+            <pb facs="tcp:30805:3"/>
+            <p>
+               <hi>Prieſt.</hi> O Lord, ſave the King.</p>
+            <p>
+               <hi>Anſw.</hi> Who <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utteth his truſt in thee.</p>
+            <p>
+               <hi>Prieſt.</hi> Send him help from thy holy place.</p>
+            <p>
+               <hi>Anſw.</hi> God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vermore mightily defend him.</p>
+            <p>
+               <hi>Prieſt.</hi> Let his enemies have no advantage againſt him.</p>
+            <p>
+               <hi>Anſw.</hi> Let not the wicked approach to hurt him.</p>
+            <p>
+               <hi>Prieſt.</hi> En<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Miniſters with righteouſneſs.</p>
+            <p>
+               <hi>Anſw.</hi> An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make thy choſen people joyful.</p>
+            <p>
+               <hi>Prieſt.</hi> Give <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o our time, O Lord.</p>
+            <p>
+               <hi>Anſw.</hi> Becauſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is none other that fighteth for us, and only thou, O God.</p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Inſtead of the firſt Collect, the following Prayer ſhall be uſed.</hi>
+            </p>
+            <p>O Eternal God, our heavenly Father, whoſe Name is the God of Hoſts, who art the only giver of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Victory; We yield thee our hearty Praiſe and thanksgiving for the late ſignal Deliverance, and glorious Succeſs thou haſt vouchſafed to our Sove<g ref="char:EOLhyphen"/>reign Lord the King, and his Allies. We adore and bleſs thy Divine Goodneſs, that thou didſt not give them over as a Prey to Cruel and Blond-thirſ<g ref="char:EOLhyphen"/>ty Men; but haſt taught their Hands to War, and their Fingers to Fight, and haſt ſhewed them a mar<g ref="char:EOLhyphen"/>vellous great kindneſs in a ſtrong City. We hum<g ref="char:EOLhyphen"/>bly pray that theſe, and all other thy Benefits, may raiſe in us, and in the whole Church of God, a ſpi<g ref="char:EOLhyphen"/>rit of Holy Ioy, and Chriſtian Charity, a ſpirit of fervent zeal for thy Name and Glory, and a ſtedfaſt Faith and Perſeverance in thy Pure and Vndefiled Religion, through Ieſus Chriſt our only Lord and Saviour. <hi>Amen.</hi>
+            </p>
+            <pb facs="tcp:30805:4"/>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>A Prayer for the King, to be conſtantly Uſed while His Ma<g ref="char:EOLhyphen"/>jeſty is Abroad in the Wars.</hi>
+            </p>
+            <p>ALmighty and moſt gracious God, who haſt been our Deliverer in the day of our diſtreſs, and haſt Raiſed up thy ſervant King <hi>William</hi> to be the happy Inſtrument of our Deliverance: And haſt al<g ref="char:EOLhyphen"/>ſo wonderfully Preſerved him in thoſe great Dan<g ref="char:EOLhyphen"/>gers to which he hath been ſo often expoſed both by Sea and Land: We humbly beſeech thee ſtill to con<g ref="char:EOLhyphen"/>tinue him under the merciful care and protection of thy good Providence; to preſerve him from all ſe<g ref="char:EOLhyphen"/>cret and treacherous Practices and Attempts; to ſtand by him, and to cover his Head in the day of Danger; to bleſs him with good Succeſs; and to bring him back in ſafety to our comfort: And like<g ref="char:EOLhyphen"/>wiſe to give us grace to live worthy of theſe Mer<g ref="char:EOLhyphen"/>cies, in all thankful obedience to thee, and in du<g ref="char:EOLhyphen"/>tiful ſubjection to his Majeſty, whom thou haſt ſet over us, and whom we beſeech thee long to pre<g ref="char:EOLhyphen"/>ſerve and continue to us for thy Mercies ſake, in Ie<g ref="char:EOLhyphen"/>ſus Chriſt our bleſſed Lord and Saviour. <hi>Amen.</hi>
+            </p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>The Collect for Peace.</hi>
+            </p>
+            <p>O God who art the Author of peace and lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of concord, in knowledge of whom ſtandeth our eternal life, whoſe ſervice is perfect freedom; defend us thy humble ſervants, in all aſſaults of our ene<g ref="char:EOLhyphen"/>mies, that we ſurely truſting in thy defence, may not fear the power of any adverſaries, through the might of Ieſus Chriſt our Lord. <hi>Amen.</hi>
+            </p>
+            <pb facs="tcp:30805:4"/>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>The Collect for Grace.</hi>
+            </p>
+            <p>O Lord our heavenly Father, Almighty and ever<g ref="char:EOLhyphen"/>laſting God, who haſt ſafely brought us to the beginning of this day; defend us in the ſame with thy mighty power, and grant that this day we fall into no ſin, neither run into any kind of danger; but that all our doings may be ordered by thy gover<g ref="char:EOLhyphen"/>nance, to do always that is righteous in thy ſight, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+            </p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Here ſolloweth the Litany.</hi>
+            </p>
+            <p>O God the Father of heaven: have mercy upon us miſerable ſinners.</p>
+            <p>
+               <hi>O God the Father of heaven: have mercy upon us miſera<g ref="char:EOLhyphen"/>ble ſinners.</hi>
+            </p>
+            <p>O God the Son, Redeemer of the World: have mercy upon us miſerable ſinners.</p>
+            <p>
+               <hi>O God the Son, Redeemer of the World: have mercy upon us miſerable ſinners.</hi>
+            </p>
+            <p>O God the Holy Ghoſt, proceeding from the Fa<g ref="char:EOLhyphen"/>ther and the Son: have mercy upon us miſerable ſinners.</p>
+            <p>
+               <hi>O God the Holy Ghoſt, proceeding from the Father and the Son: have mercy upon us miſerable ſinners.</hi>
+            </p>
+            <p>O holy, bleſſed and glorious Trinity, three per<g ref="char:EOLhyphen"/>ſons and one God: have mercy upon us miſerable ſinners.</p>
+            <p>
+               <hi>O holy, bleſſed and glorious Trinity, three perſons and one God: have mercy upon us miſerable ſinners.</hi>
+            </p>
+            <p>Remember not Lord our offences, nor the offences of our forefathers, neither take thou vengeance of our ſins: Spare us, good Lord, ſpare thy people whom thou haſt redeemed with thy moſt precious <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ou<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and be not angry with us for ever.</p>
+            <p>
+               <hi>Spare us, good Lord.</hi>
+            </p>
+            <pb facs="tcp:30805:5"/>
+            <p>From all evil and miſchief, from ſin, from the crafts and aſſaults of the devil, from thy wrath, and from everlaſting damnation,</p>
+            <p>
+               <hi>Good Lord, deliver us.</hi>
+            </p>
+            <p>From all blindneſs of heart; from pride, vain-glo<g ref="char:EOLhyphen"/>ry, and hypocriſie; from envy, hatred, and malice, and all uncharitableneſs,</p>
+            <p>
+               <hi>Good Lord, deliver us.</hi>
+            </p>
+            <p>From fornication, and all other deadly ſin; and from all the deceits of the world, the fleſh, and the devil,</p>
+            <p>
+               <hi>Good Lord, deliver us.</hi>
+            </p>
+            <p>From lightning and tempeſt; from plague, peſti<g ref="char:EOLhyphen"/>lence and famine; from battel, and murder, and from ſudden death,</p>
+            <p>
+               <hi>Good Lord, deliver us.</hi>
+            </p>
+            <p>From all ſedition, privy conſpiracy and rebellion; from all falſe doctrine, hereſie and ſchiſm; from ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neſs of heart, and contempt of thy Word and Com<g ref="char:EOLhyphen"/>mandment,</p>
+            <p>
+               <hi>Good Lord, deliver us.</hi>
+            </p>
+            <p>By the myſtery of thy holy Incarnation; by the holy Nativity and Circumciſion; by thy Baptiſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, Faſting and Temptation,</p>
+            <p>
+               <hi>Good Lord, deliver us.</hi>
+            </p>
+            <p>By thine Agony and bloudy Sweat; by thy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Paſſion; by thy precious Death and Burial; by thy glorious Reſurrection and Aſcenſion; and by the coming of the holy Ghoſt,</p>
+            <p>
+               <hi>Good Lord, deliver us.</hi>
+            </p>
+            <p>In all time of our tribulation; in all time of our wealth; in the hour of death, and in the day of Iudg<g ref="char:EOLhyphen"/>ment,</p>
+            <p>
+               <hi>Good Lord, deliver us.</hi>
+            </p>
+            <p>We ſinners do beſeech thee to hear us, O Lord God, and that it may pleaſe thee to rule and govern
+<pb facs="tcp:30805:5"/> thy holy Church universal in the right way;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to keep and ſtrengthen in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> true worſhipping of thee, in righteouſneſs and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>meſs of life, thy ſervant <hi>William,</hi> our moſt gra<g ref="char:EOLhyphen"/>cious King and Governour;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to rule his heart in thy faith, fear, and love; and that he may evermore <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> affiance in thee, and ever ſeek thy honour and glory;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to be his defender and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>per, giving him the victory over all his enemies;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to bleſs and preſerve Ca<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> the Queen Damager, her Royal Highneſs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Princeſs <hi>Ann<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Denmark,</hi> and all the Royal family;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to illuminate all Biſhops, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bleſts and Deacons, with true knowledge and un<g ref="char:EOLhyphen"/>derſtanding of thy Word, and that both by their <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ching and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, they may ſet it forth, and ſhew <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> accordingly;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to endue the Lords of the Council, and all the Nobility, with grace, wiſdom <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> underſtanding;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to bleſs and keep the Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ates, giving them grace to execute Iuſtice, and maintain Truth;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thee to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and keep all thy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <pb facs="tcp:30805:6"/>
+            <p>That it may pleaſe thee to give to all nations, unity, peace, and concord;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to give us an heart to love and dread thee, and diligently to live after thy com<g ref="char:EOLhyphen"/>mandments;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to give to all thy people in<g ref="char:EOLhyphen"/>creaſe of grace, to hear meekly thy word, and to re<g ref="char:EOLhyphen"/>ceive it with pure affection, and to bring forth the fruits of the Spirit;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to bring into the w<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of truth, all ſuch as have erred and are re<g ref="char:EOLhyphen"/>ceived;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to ſtrengthen ſuch as d<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſtand, and to comfort and help the weak-hearted, and to raiſe up them that fall, and finally to beat down Satan under our feet;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to ſuccour, help, and com<g ref="char:EOLhyphen"/>fort all that are in danger, neceſſity, and tribula<g ref="char:EOLhyphen"/>tion;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to preſerve all that tra<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by land or by water, all women labouring of t<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> all ſick perſons and young children, and to ſhewe pity upon all priſoners and captives;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to defend and provide <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the fatherleſs children and widows, and all that a<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> deſolate and oppreſſed;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to have mercy upon a<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> men;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <pb facs="tcp:30805:6"/>
+            <p>That it may pleaſe thee to forgive our enemies, perſecutors, and ſlanderers, and to turn their hearts;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to give and preſerve to our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe the kindly fruits of the earth, ſo as in due time <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may enjoy them;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to give us true repen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce, to forgive us all our ſins, negligences and ignorances, and to endue us with the grace of thy holy Spirit, to amend our lives according to thy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Word;</p>
+            <p>
+               <hi>We beſeech thee to hear us, good Lord.</hi>
+            </p>
+            <p>Son of God: We beſeech thee to hear us.</p>
+            <p>
+               <hi>Son of God: we beſeech thee to hear us.</hi>
+            </p>
+            <p>O Lamb of God: that takeſt away the ſins of the world;</p>
+            <p>
+               <hi>Grant us thy peace.</hi>
+            </p>
+            <p>O Lamb of God: that takeſt away the ſins of the world;</p>
+            <p>
+               <hi>Have mercy upon us.</hi>
+            </p>
+            <l>O Chriſt, hear us.</l>
+            <l>
+               <hi>O Chriſt, hear us.</hi>
+            </l>
+            <l>Lord, have mercy upon us.</l>
+            <l>
+               <hi>Lord, have mercy upon us.</hi>
+            </l>
+            <l>Chriſt, have mercy upon us.</l>
+            <l>
+               <hi>Chriſt, have mercy upon us.</hi>
+            </l>
+            <l>Lord, have mercy upon us.</l>
+            <l>
+               <hi>Lord, have mercy upon us.</hi>
+            </l>
+            <p>OVr Father, which art in Heaven; Hallowed be thy Name. Thy Kingdom come. Thy will be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ne in earth, As it is in Heaven. Give us this day our daily bread. And forgive us our Treſpaſſes, As we forgive them that treſpaſs againſt us. And lead us not into temptation; But deliver us from evil. Amen.</p>
+            <pb facs="tcp:30805:7"/>
+            <p>
+               <hi>Prieſt.</hi> O Lord, deal not with us after our ſins.</p>
+            <p>
+               <hi>Anſw.</hi> Neither reward us after our iniquities.</p>
+            <p>¶ Let us pray.</p>
+            <p>O God merciful Father, that deſpiſeſt not the ſigh<g ref="char:EOLhyphen"/>ing of a contrite heart, nor the deſire of ſuch as be ſorrowful; mercifully aſſiſt our prayers that we make before thee, in all our troubles and adverſi<g ref="char:EOLhyphen"/>ties, whenſoever they oppreſs us; and graciouſly hear us, that thoſe evils which the craft and ſubtilty of the devil or man worketh againſt us be brought to nought, and by the providence of thy goodneſs then may be diſperſed, that we thy ſervants, being hurt by no perſecutions, may evermore give thanks unto thee in thy holy Church, through Ieſus Chirſt our Lord.</p>
+            <p>
+               <hi>O Lord, ariſe, help us, deliver us for thy names ſake.</hi>
+            </p>
+            <p>O God, we have heard with our ears, and our fa<g ref="char:EOLhyphen"/>thers have declared unto us, the noble works that thou didſt in their days, and in the old time before them.</p>
+            <p>
+               <hi>O Lord, ariſe, help us, and deliver us for thine honour.</hi>
+            </p>
+            <p>Glory be to the Father, and to the Son: and to the Holy Ghoſt;</p>
+            <p>
+               <hi>Anſwer.</hi> As it was in the begining, is now, and ever ſhall be: world without end. Amen.</p>
+            <l>From our enemies defend us, O Chriſt.</l>
+            <l>
+               <hi>Graciouſly look upon our afflictions.</hi>
+            </l>
+            <l>Pitifulty behold the ſorrows of our hearts.</l>
+            <l>
+               <hi>Mercifully forgive the ſins of thy people.</hi>
+            </l>
+            <l>Favourably with mercy hear our prayers.</l>
+            <l>
+               <hi>O Son of David, have mercy upon us.</hi>
+            </l>
+            <p>Both now and ever vouchſafe to hear us, O Chriſt.</p>
+            <p>
+               <hi>Graciouſly hear us, O Chriſt; graciouſly hear us, O Lord Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Prieſt.</hi> O Lord. let thy mercy be ſhewed upon us.</p>
+            <p>
+               <hi>Anſwer.</hi> As we do put our truſt in thee.</p>
+            <pb facs="tcp:30805:7"/>
+            <p>Let us pray,</p>
+            <p>We humbly beſeech thee, O Father, mercifully to look upon our infirmities; and for the glo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of thy Name, turn from us all thoſe evils that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> moſt righteouſly have deſerved; and grant that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all our troubles we may put our whole truſt and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>fidence in thy mercy, and evermore ſerve thee in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſs and pureneſs of living, to thy honour and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, through our only Mediatour and Advocate, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſt our Lord. <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>In the end of the Litany, after the Collect [<hi>We humbly beſeech thee, O Father,</hi> &amp;c.] ſhall be ſaid theſe following Prayers.</hi>
+            </p>
+            <p>O Lord God of our ſalvation, without whoſe Aid and Influence all our Strength is weakness, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Courage raſhneſs, and our Counſel folly; We <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> unworthy ſervants do magnifie thy great and <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ous Name for this and many other moſt gra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s Preſervations thou haſt vouchſafed His Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Royal Perſon, and for that eminent, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> remarkable Victory, wherewith thou haſt late<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> wonderfully bleſt the Arms of our Sovereign <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and his Allies. O continue forth thy loving <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is towards him: Let thy tender mercies pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and follow him all the days of his Life: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Reign be Proſperous, and his Arms Vi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s; and let the bleſſings of Safety and happy <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſs attend all thoſe that Fight his Battels. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rve him from the gathering together of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and from the Inſurrection of the evil doers. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Weapon that is formed againſt him proſper, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> make him always to return with Honour and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. O Let all the Bleſſings of Heaven and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> poured out upon the ſacred Head of thine
+<pb facs="tcp:30805:8"/> Anointed, and from thence flow down even to the skirts of the meaneſt of his People, in Peace, and Plenty, and Proſperty: That ſo both Pr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ce <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> People may with one mind, and with one month glo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fie thee, O God moſt gracious; for this thy unſpeakable goodneſs, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+            </p>
+            <p>ALmighty God, who art a ſtrong Towre of De<g ref="char:EOLhyphen"/>fence unto thy Servants againſt the face <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Enemies; We yield thee praiſe and Thankſ<g ref="char:EOLhyphen"/>giving for our Deliverance from thoſe great an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> apparent Dangers wherewith we were compaſſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. We acknowledge it thy goodneſſ, that we were <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> delivered over as a Prey unto them; beſeechin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thee ſtill to continue ſuch thy mercies towards <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that all the World may know that thou our Sa<g ref="char:EOLhyphen"/>viour and mighty Deliverer, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+            </p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>The General Thankſgiving.</hi>
+            </p>
+            <p>ALmighty God, Father of all mercies, we th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> unworthy ſervants <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o give thee moſt humbl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and hearty thanks for all thy goodneſs and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> kindneſs to us and to all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> [<note n="*" place="margin">This to be ſaid when any that have been prayed for, deſire to re<g ref="char:EOLhyphen"/>turn praiſe.</note>
+               <hi>particularly to thoſe who deſire <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> offer up their praiſes and thankſgivings thy late mercies vouchſafed unto <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>] We bleſs thee for our creations <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſervation, and all the bleſſings <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> life, but above all for thine <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mable love in the redemption of the world by Lord Ieſus Chriſt; for the means of grace, and the hope of glory. And we beſeech thee gi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that due ſence of all thy mercies, that our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:30805:8"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be unfeignedly thankful, and that we may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> forth thy praiſe, not only with our lips, but in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, by giving up our ſelves to thy ſervice, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> walking before thee in holineſs and righteouſ<g ref="char:EOLhyphen"/>neſs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our days, through Ieſus Chrilſt our Lord; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whom with thee and the holy Ghoſt be all honour <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> glory, world without end. <hi>Amen.</hi>
+            </p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>A Prayer of S. <hi>Chryſoſtom.</hi>
+               </hi>
+            </p>
+            <p>Almighty God, who hoſt given us grace at this time with one accord, to make our common <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>lications unto thee, and doſt promiſe, that when <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or three are gathered together in thy Name, thou <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> grant their requeſts; Fulfil now, O Lord, the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and petitions of thy ſervants, as may be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> expedient for them; granting us in this world <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ledge of thy truth, and in the world to come <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> everlaſting. <hi>Amen.</hi>
+            </p>
+            <p n="2">
+               <hi>2 Cor. 13.14.</hi>
+            </p>
+            <p>THe grace of our Lord Ieſus Chriſt, and the love of God, and the fellowſhip of the holy Ghoſt be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> us all evermore. <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Communion-Service, between the Commandments and the Epiſtle, ſhall this Collect be uſed, inſtead of the Collect for the King, and of the Collect for the day.</hi>
+            </p>
+            <p>O Eternal God, our heavenly Father, whoſe Name is the God of Hoſts, who art the only giver of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ory; We yield thee our hearty Praiſe and thankſgiving for the late Signal Deliverance, and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rious Succeſs thou haſt vouchſafed to our Sove<g ref="char:EOLhyphen"/>reign Lord the King and his Allies. We adore
+<pb facs="tcp:30805:9"/> and bleſs thy Divine Goodneſs, that thou didſt not give them over as a prey to cruel and bloud-thirſty men; but haſt taught their Hands to War, and their Fingers to Fight, and haſt ſhewed them a marvel<g ref="char:EOLhyphen"/>lous great kindneſs in a ſtrong City. We humbly pray that theſe, and all other thy Benefits, may raiſe in us, and in the whole Church of God, a Spi<g ref="char:EOLhyphen"/>rit of Holy Ioy, and Chriſtian Charity, a Spirit of fervent zeal for thy Name and Glory, and a ſtedfaſt Faith and Perſeverance in thy pure and undefiled Religion, through Ieſus Chriſt our only Lord and Saviour. <hi>Amen.</hi>
+            </p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Then ſhall follow the Epiſtle. <hi>Phil.</hi> 4.4. to v. 10.</hi>
+            </p>
+            <p>REjoyce in the Lord alway; and again I ſay r<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>joyce. Let your moderation be known unto <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> men. The Lord is at hand. Be careful for nothing but in every thing by prayer and ſupplication wi<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> thankſgiving, let your requeſts be made known <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to God. And the peace of God which paſſeth all <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtanding, ſhall keep your hearts and minds through Chriſt Ieſus. Finally, brethren, whatſoever thin<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> are true, whatſoever things are honeſt, whatſo<g ref="char:EOLhyphen"/>ever things are juſt, whatſoever things are pur<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, whatſoever things are lovely, whatſoever things ar<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of good report, if there be any virtue, and if there be any praiſe, think on theſe things. Thoſe things which ye have both learned and received, and hear<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſeen in me, do: and the God of peace ſhall be with you.</p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>The Goſpel. S. <hi>Mark</hi> 8.34. to the end.</hi>
+            </p>
+            <p>ANd when he had called the people unto him, with his diſciples alſo, he ſaid unto them, who<g ref="char:EOLhyphen"/>ſoever will come after me, let him deny himſelf, and take up his croſs, and follow me. For whoſoever
+<pb facs="tcp:30805:9"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſave his life ſhall loſe it; but whoſoever ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his life for my ſake and the Goſpels, the ſame ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it. For what ſhall it profit a man, if he ſhall gain <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whole world, and loſe his own ſoul? Or what <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a man give in exchange for his ſoul? Whoſoever <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>refore ſhall be aſhamed of me, and of my wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> adulterous and sinful generation, of him al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all the Son of man he aſhamed, when <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e cometh <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> glory of his Father, with the holy Angels.</p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Then the Nicene Creed. After that the Sermon.</hi>
+            </p>
+            <p>
+               <hi>After the Prayer [<hi>For the whole State of Chriſts Church,</hi> &amp;c.] this Collect ſhall be uſed.</hi>
+            </p>
+            <p>O Almighty God, the Sovereign Commander of all the world, in whoſe hand is power and might, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> none is able to withſtand; We bleſs and mag<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame for this eminent Succeſs, the whole <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whereof we do aſcribe to thy moſt wiſe and gra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Providence. Grant, O Lord, that we may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove this great Bleſſing to the advancement of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Goſpel, the honour of our Sovereign, and as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as in us lieth, to the good of all mankind. And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beſeech thee give us all ſuch a ſenſe of this thy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, as may engage us to a true thankfulneſs, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as may appear in our lives, by an humble, holy, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> obedient walking before thee all our days, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ugh Ieſus Chriſt our Lord; To whom with thee <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the holy Spirit, as for all thy mercies, ſo in <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ticular for this happy Advantage thou haſt given <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ever the common Enemy, he all glory and honour <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> without end. <hi>Amen.</hi>
+            </p>
+            <pb facs="tcp:30805:10"/>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>A Prayer for all Mankind, eſpecially for the Reformed Churches.</hi>
+            </p>
+            <p>MOſt gracious and merciful God, who art the Sa<g ref="char:EOLhyphen"/>viour of all men, eſpecially of thoſe that believe, and vaſt commanded us to make prayers and inte<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſions for all men, deſiring that all may be ſaved, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come to the knowledge of the Truth: We hum<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> beſeech thee to extend thy mercy and compaſſion to all Mankind; more particularly to the Reformed Churches, and eſpecially to thoſe who are ſtill under Perſecution for Truth and Righteouſneſs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Relieve them according to their ſeveral neceſſities; be a ſhelter and defence to them from the fury of the Oppreſſour: Let the ſighing of the Priſoners <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> before thee, and according to the greatneſs of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> power preſerve them that are appointed to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not the poor always be forgotten; let not the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ent abiding of the meek periſh for ever. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> mercy them that are baniſhed for the Teſtimony <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thy Truth: Gather thy diſperſed together, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtore the outcaſts of thy People; and in thy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> time bring them home to worſhip thee in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> own Land: And whatſoever they have loſt for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſake, return it to them, according to thy gra<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Promiſe, in the manifold Bleſſings of this and a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ter Life: Deliver Iſrael, O God, out of all his T<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bles. And we beſeech thee to enlighten all thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are in Darkneſs and Eerour, and to give them <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pentance to the acknowledgment of the truth; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all the ends of the Earth may remember themſel<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and be turned unto the Lord: And we may all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come one Flock under the great Shepherd and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſhop of our Souls, Ieſus Chriſt, our Bleſſed S<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>our and Redeemer. <hi>Amen.</hi>
+            </p>
+            <pb facs="tcp:30805:10"/>
+            <p>ALmighty God, who haſt promiſed to hear the Pe<g ref="char:EOLhyphen"/>titions of them that ask in thy Sons Name; We beſeech thee mercifully to incline thine ears <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, that have made now our Prayers and Suppli<g ref="char:EOLhyphen"/>cations unto thee, and grant that thoſe things which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e faithfully asked according to thy Will, may <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tually be obtained, to the relief of our neceſſity, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the ſetting forth of thy glory, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+            </p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Then the Prieſt (or Biſhop, if he be preſent) ſhall let them depart with this Bleſſing.</hi>
+            </p>
+            <p>THe Peace of God which paſſeth all underſtanding, keep your hearts and minds in the knowledge <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> love of God, and of his Son Ieſus Chriſt our Lord: and the bleſſing of God Almighty, the Father, the Son, and the holy Ghoſt, be amongſt you, and remain with you always. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
